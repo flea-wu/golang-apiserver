@@ -1,0 +1,8 @@
+{"level":"ERROR","timestamp":"2019-06-12 17:20:53.904","file":"model/init.go:33","msg":"Database connection failed. Database name: ","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"ERROR","timestamp":"2019-06-12 17:20:53.905","file":"model/init.go:33","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2019-06-12 17:20:53.905","file":"apiserver/main.go:58","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-12 17:20:53.906","file":"apiserver/main.go:55","msg":"The router has been deployed successfully."}
+{"level":"ERROR","timestamp":"2019-06-12 18:26:29.967","file":"model/init.go:33","msg":"Database connection failed. Database name: ","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"ERROR","timestamp":"2019-06-12 18:26:29.967","file":"model/init.go:33","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: connect: connection refused"}}
+{"level":"INFO","timestamp":"2019-06-12 18:26:29.968","file":"apiserver/main.go:58","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2019-06-12 18:26:29.969","file":"apiserver/main.go:55","msg":"The router has been deployed successfully."}
